@@ -2,8 +2,16 @@
     "name": "jfkeci/example2",
     "autoload": {
         "psr-4": {
-            "Jfkeci\\Example2\\": "src/"
+            "App\\": "./"
         }
     },
-    "require": {}
+    "authors": [
+        {
+            "name": "jfkeci",
+            "email": "ja.lip132@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
 }

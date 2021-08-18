@@ -1,0 +1,9 @@
+{
+    "name": "jfkeci/example2",
+    "autoload": {
+        "psr-4": {
+            "Jfkeci\\Example2\\": "src/"
+        }
+    },
+    "require": {}
+}
